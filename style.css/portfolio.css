@@ -204,6 +204,33 @@ body {
     height: 20px;
     justify-content: center;
 }
+.c{
+    max-width: 251px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'inter';
+    color: white;
+    background-color:none;
+    padding: 0.5px 10px;
+    margin-top: 32px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+    cursor: pointer;
+  
+}
+.fa-solid fa-play{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    justify-content: center;
+}
+
 
 
 
